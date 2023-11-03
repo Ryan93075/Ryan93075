@@ -15,7 +15,7 @@
 - Node.js
 - HTML, CSS
 
-📫 You can reach me through brendaryan2005@gmail.com or connect with me on https://www.linkedin.com/in/brendan-ryan-devasagay-a-180788257/
+📫 You can reach me through brendaryan2005@gmail.com or connect with me on Linkedin-https://www.linkedin.com/in/brendan-ryan-devasagay-a-180788257/
 
 👯 I'm always open to collaborating on exciting projects and learning opportunities, so if you have an idea or want to work together, please don't hesitate to reach out.
 
@@ -23,7 +23,7 @@
 
 📚 Check out my coding profiles:
 
-- [HackerRank]([https://www.hackerrank.com/your_username](https://www.hackerrank.com/profile/brendanryan2005))
-- [LeetCode]([https://leetcode.com/your_username](https://leetcode.com/Brendan_Ryan_Devasagay_A/)https://leetcode.com/Brendan_Ryan_Devasagay_A/)
+- HackerRank-https://www.hackerrank.com/your_username](https://www.hackerrank.com/profile/brendanryan2005
+- LeetCode-https://leetcode.com/your_username](https://leetcode.com/Brendan_Ryan_Devasagay_A/)https://leetcode.com/Brendan_Ryan_Devasagay_A/
 
 Cheers! ✨
