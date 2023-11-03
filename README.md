@@ -15,7 +15,7 @@
 - Node.js
 - HTML, CSS
 
-📫 You can reach me through brendaryan2005@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/ryan-profile](https://www.linkedin.com/in/brendan-ryan-devasagay-a-180788257/))
+📫 You can reach me through brendaryan2005@gmail.com or connect with me on https://www.linkedin.com/in/brendan-ryan-devasagay-a-180788257/
 
 👯 I'm always open to collaborating on exciting projects and learning opportunities, so if you have an idea or want to work together, please don't hesitate to reach out.
 
