@@ -23,7 +23,7 @@
 
 📚 Check out my coding profiles:
 
-- HackerRank-https://www.hackerrank.com/your_username](https://www.hackerrank.com/profile/brendanryan2005
--https://leetcode.com/your_username](https://leetcode.com/Brendan_Ryan_Devasagay_A/)https://leetcode.com/Brendan_Ryan_Devasagay_A/
+- HackerRank-https://www.hackerrank.com/profile/brendanryan2005
+-Leetcode-https://leetcode.com/Brendan_Ryan_Devasagay_A/
 
 Cheers! ✨
