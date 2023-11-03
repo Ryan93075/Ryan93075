@@ -1,6 +1,6 @@
 # Ryan
 
-👋 Hi there! I'm Ryan, a passionate computer science student based in San Francisco.
+👋 Hi there! I'm Ryan, a passionate computer science student based in Chennai, India.
 
 🌱 I'm currently studying computer science and exploring various programming languages and technologies. I'm always eager to learn new things and passionate about problem-solving.
 
