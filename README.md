@@ -8,15 +8,22 @@
 
 🚀 Here are a few technologies I've been working with:
 
-- Python            - C
-- JavaScript        -JAVA
-- React             -   
-- Node.js           -              
+- Python
+- JAVA  
+- JavaScript      
+- React          
+- Node.js
+- HTML, CSS
 
 📫 You can reach me through brendaryan2005@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/ryan-profile](https://www.linkedin.com/in/brendan-ryan-devasagay-a-180788257/))
 
 👯 I'm always open to collaborating on exciting projects and learning opportunities, so if you have an idea or want to work together, please don't hesitate to reach out.
 
 👩‍💻 Looking forward to connecting with you and making meaningful contributions to the coding world during my academic journey!
+
+📚 Check out my coding profiles:
+
+- [HackerRank]([https://www.hackerrank.com/your_username](https://www.hackerrank.com/profile/brendanryan2005))
+- [LeetCode]([https://leetcode.com/your_username](https://leetcode.com/Brendan_Ryan_Devasagay_A/)https://leetcode.com/Brendan_Ryan_Devasagay_A/)
 
 Cheers! ✨
