@@ -10,10 +10,11 @@
 
 - Python
 - JAVA  
-- JavaScript      
-- React          
-- Node.js
+- JavaScript
+- React
+- Node
 - HTML, CSS
+- Kubernetes
 
 📫 You can reach me through brendaryan2005@gmail.com or connect with me on Linkedin-https://www.linkedin.com/in/brendan-ryan-devasagay-a-180788257/
 
