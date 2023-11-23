@@ -25,6 +25,6 @@
 📚 Check out my coding profiles:
 
 - HackerRank-https://www.hackerrank.com/profile/brendanryan2005
--Leetcode-https://leetcode.com/Brendan_Ryan_Devasagay_A/
+- Leetcode-https://leetcode.com/Brendan_Ryan_Devasagay_A/
 
 Cheers! ✨
