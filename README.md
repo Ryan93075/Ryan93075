@@ -8,7 +8,7 @@
 
 🚀 Here are a few technologies I've been working with:
 
-- Python
+- Python(numpy, pandas)
 - JAVA  
 - JavaScript
 - React
